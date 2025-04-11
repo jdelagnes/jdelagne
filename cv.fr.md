@@ -134,10 +134,20 @@ Windows XP, Linux
 **Développeur Sénior Java**  
 *janvier 2007 – janvier 2010*
 
-Conception et réalisation de la publication au fil de l'eau des transactions et instructions au format XML sur bus Tibco RendezVous (1 million de messages/jour).
+Conception et réalisation de la publication au fil de l’eau des transactions et
+instructions au format XML sur bus Tibco RendezVous.  
+Volume quotidien d’un million de messages.  
+Projet inscrit dans la mise en place d’une nouvelle architecture transverse visant à
+mutualiser certains composants communs aux activités des achats/ventes et
+prêts/emprunts de titres.
 
-Refonte de l'application de rapprochement des exécutions marchées.  
-Migration technique TRAX vers TRAX2.
+Refonte de l’application de rapprochement des exécutions marchées entre le SI et
+les correspondants externes : clearers, bourses, chambres de compensation, etc.  
+Principaux objectifs : prévention de l’augmentation des volumes, diminution des
+temps d’analyse du support niveau 1 et amélioration des statistiques de
+réconciliation.
+
+Migration technique TRAX vers TRAX2 : changement communication et du format des messages échangés.
 
 **Environnement** :  
 Java 1.5, Maven, Eclipse  
@@ -164,8 +174,13 @@ Oracle 10g, Tibco Rendezvous, Clearcase, Windows XP
 **Développeur Junior C#**  
 *janvier 2004 – janvier 2006*
 
-Migration des services STP sur une nouvelle modélisation des transactions.  
-Tests XML, reprise de données, mise en place de CI .NET.
+Participation à la migration des différents services STP sur une nouvelle
+modélisation des transactions financières. Plus particulièrement en charge du
+service responsable de la persistance des opérations en base de données.
+Réception des données au format XML sur bus logiciel Tibco RendezVous.
+Tests de non-régression sur documents XML.
+Reprise et migration de données.
+Mise en place d’une plateforme d’intégration continue .NET.
 
 **Environnement** :  
 C# .NET 1.1 & 2.0, Spring.Net, iBATIS.Net, MbUnit, CruiseControl.Net  
@@ -179,7 +194,15 @@ Oracle 8i, Tibco Rendezvous, Clearcase, Windows XP
 **Développeur Junior Java**  
 *septembre 2001 – décembre 2003*
 
-Refonte du module ARC pour le suivi des opérations : conception, génération de relances SWIFT/Fax/email.
+Maintenance puis refonte totale de l’application permettant le suivi des opérations au fil de l’eau :
+– Conception, modélisation et implémentation de la mécanique fonctionnelle.
+– Suivi des statuts de réconciliation par intégration de données des mondes : SWIFTNet ACCORD et ACCORD Workstation.
+– Génération de relances sur différents formats : SWIFT, Fax, Courrier, E-Mail.
+
+**Environnement** :  
+Java 1.3, Avalon, FOP, XML/XSLT/XSLFO, JMS, JSP/Servlet  
+Delphi, Oracle 8i, Informatica Powermart, BusinessObjects  
+AIX / Windows NT
 
 ---
 
@@ -187,7 +210,14 @@ Refonte du module ARC pour le suivi des opérations : conception, génération d
 **Développeur Junior Delphi**  
 *septembre 2000 – septembre 2001*
 
-Refonte de l'application de gestion Relais H : IHM, logique métier, migration de données.
+Participation à la refonte totale de l’application de gestion Relais H permettant
+entre autres la gestion des articles, de l’approvisionnement des points de ventes
+et des commandes aux fournisseurs.
+– Développement de l’IHM et implémentation de la logique métier.
+– Migration des données de l’ancien modèle vers le nouveau.
+– Réalisation d’interfaces entrantes et sortantes.
+
+**Environnement** : Delphi 5, Oracle 7, Windows
 
 ---
 
@@ -195,7 +225,9 @@ Refonte de l'application de gestion Relais H : IHM, logique métier, migration d
 **Développeur stagiaire C++**  
 *avril 2000 – juillet 2000*
 
-Création d’une IHM de gestion de référentiel pour application front-office.
+Création d’une IHM pour la gestion du référentiel d’une application front office sur le marché obligataire.
+
+**Environnement** : C++Builder / Windows NT, Sybase / Unix
 
 ---
 
@@ -203,8 +235,10 @@ Création d’une IHM de gestion de référentiel pour application front-office.
 **Développeur stagiaire Perl**  
 *avril 1999 – juillet 1999*
 
-Organisation de conférence FPSAC, site DMTCS.  
-**Technos** : Perl, sh, Apache, OpenBSD
+Participation à l’organisation de la 12ème conférence internationale FPSAC.
+Conception du site Internet pour la revue électronique DMTCS.
+
+**Environnement** : Perl, sh, Apache, OpenBSD
 
 ---
 
