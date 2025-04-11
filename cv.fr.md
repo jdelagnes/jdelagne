@@ -51,7 +51,10 @@ Leader technique sur la migration de la suite Kondor vers l’application de boo
 
 **Environnement** :  
 Java 21, Maven, IntelliJ  
-Spring Boot et autres Spring *, Swagger, JUnit, Mockito, Cucumber, PostgreSQL, RabbitMQ, Git, Jenkins, Sonar, XL Deploy  
+Spring Boot et autres Spring *, Swagger  
+Gerkin, Cucumber, JUnit, Mockito  
+PostgreSQL, RabbitMQ  
+Git, Jenkins, Sonar, XL Deploy, VM private cloud
 Windows 10, Linux
 
 ---
