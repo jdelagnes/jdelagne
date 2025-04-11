@@ -1,16 +1,16 @@
-# Jérôme Delagnes  
-**Consultant en informatique – Architecte & Concepteur Logiciels**  
+# Jérôme Delagnes - Architecte, leader technique et artisan logiciel
 📍 Île-de-France, France  
 📧 jerome.delagnes@gmail.com  
-💼 [LinkedIn](https://fr.linkedin.com/in/jeromedelagnes)
+💼 [LinkedIn](https://fr.linkedin.com/in/jeromedelagnes)  
 
 ---
 
 ## 🎯 À propos
 
-Consultant en informatique depuis plus de 20 ans, mon domaine de prédilection est l'architecture et la conception logiciels.  
+Consultant en informatique depuis plus de 20 ans,  
+Mon domaine de prédilection est l'architecture et la conception logiciels.  
 J'aime autant concevoir, coder et livrer des logiciels qu'interagir avec les utilisateurs afin d'améliorer leur expérience et ainsi atteindre leurs objectifs métiers.  
-Je suis actuellement intéressé par toutes opportunités m'apportant de nouvelles connaissances techniques, métiers, agiles et humaines.  
+Je suis intéressé par toutes opportunités m'apportant de nouvelles connaissances techniques, métiers, agiles et humaines.  
 
 ---
 
@@ -28,9 +28,10 @@ Je suis actuellement intéressé par toutes opportunités m'apportant de nouvell
 ## 💼 Expériences Professionnelles
 
 ### Société Générale Corporate and Investment Banking - SGCIB  
-**Leader technique (Java)**  
+
+**Leader technique (Java) - Liquidity Management Agency**
+
 *février 2021 – novembre 2024*  
-**Liquidity Management Agency**
 
 Leader technique sur la migration de la suite Kondor vers l’application de booking interne de la banque – périmètre FX. Cette migration permet ainsi d’optimiser les coûts de licences ainsi que la cohérence du SI.
 
@@ -55,11 +56,13 @@ Windows 10, Linux
 
 ---
 
-### Société Générale Corporate & Investment Banking  
-**Scenario manager – RiFT**  
+### Société Générale Corporate & Investment Banking
+
+**Leader technique (Java) - RiFT – Référentiel Risques – Scenario manager**
+
 *janvier 2016 – décembre 2018*  
 
-Leader technique sur un projet greenfield visant à rationaliser et mettre en place l'application de gestion des scénarios de chocs de la banque, dans le cadre de la FRTB.
+Leader technique sur le projet greenfield RiFT visant à rationaliser et mettre en place l'application de gestion des scénarios de chocs de la banque, dans le cadre de la FRTB.
 
 L'un des principaux challenges du projet étant de supporter la charge des calculateurs sollicitant très fortement l'API REST de l'application (plusieurs millions d'appels sur quelques heures).
 
