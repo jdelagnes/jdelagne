@@ -14,7 +14,7 @@ Je suis actuellement intéressé par toutes opportunités m'apportant de nouvell
 
 ---
 
-## 🛠️ Compétences 🚧 A réoganiser et ompléter
+## 🛠️ Compétences 🚧 A réoganiser et compléter
 
 - **Langages & Frameworks** : Java (jusqu'à 21), Spring Boot, Gerkin, Cucumber, Hibernate, JUnit, Mockito
 - **Architecture** : Microservices, Architecture Hexagonale, CQRS/ES, DDD
