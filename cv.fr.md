@@ -35,18 +35,18 @@ Je suis actuellement intéressé par toutes opportunités m'apportant de nouvell
 Leader technique sur la migration de la suite Kondor vers l’application de booking interne de la banque – périmètre FX. Cette migration permet ainsi d’optimiser les coûts de licences ainsi que la cohérence du SI.
 
 **Rôles** :  
-– Aider et supporter les développeurs dans leur quotidien (7 à Paris, 2 à Bangalore).  
-– Définir et faire évoluer l’architecture et la stack technique en accord avec les standards groupe.  
-– Définir les standards, les bonnes pratiques et processus de développements propres à l’équipe.  
+* Aider et supporter les développeurs dans leur quotidien (7 à Paris, 2 à Bangalore).  
+* Définir et faire évoluer l’architecture et la stack technique en accord avec les standards groupe.  
+* Définir les standards, les bonnes pratiques et processus de développements propres à l’équipe.  
 
 **Réalisations** :  
-– Reverse engineering et ré-implémentation du système d’intégration des deals de Kondor.  
-– Intégration des deals « pré-trade » vers le système « trade » de la banque.  
-– Mise en place de la chaîne CI/CD from scratch.  
+* Reverse engineering et ré-implémentation du système d’intégration des deals de Kondor.  
+* Intégration des deals « pré-trade » vers le système « trade » de la banque.  
+* Mise en place de la chaîne CI/CD from scratch.  
 
 **Principes appliqués** :  
-– CQRS/ES, BDD, TDD et documentation vivante.  
-– Microservices, architecture hexagonale et clean code.  
+* CQRS/ES, BDD, TDD et documentation vivante.  
+* Microservices, architecture hexagonale et clean code.  
 
 **Environnement** :  
 Java 21, Maven, IntelliJ  
@@ -64,15 +64,15 @@ Leader technique sur un projet greenfield visant à rationaliser et mettre en pl
 L'un des principaux challenges du projet étant de supporter la charge des calculateurs sollicitant très fortement l'API REST de l'application (plusieurs millions d'appels sur quelques heures).
 
 **Rôles** :  
-• Aider et supporter les développeurs dans leur quotidien (5 à Paris, 5 à Bangalore).  
-• Comprendre le besoin fonctionnel et orienter la modélisation du domaine.  
-• Définir et faire évoluer l'architecture et la stack technique.  
-• Définir les standards, bonnes pratiques et processus de développements.  
+* Aider et supporter les développeurs dans leur quotidien (5 à Paris, 5 à Bangalore).  
+* Comprendre le besoin fonctionnel et orienter la modélisation du domaine.  
+* Définir et faire évoluer l'architecture et la stack technique.  
+* Définir les standards, bonnes pratiques et processus de développements.  
 
 **Réalisations** :  
-- Participer au développement de certaines parties du projet.  
-- Résoudre les principaux problèmes de performance.  
-- Mise en place de la chaîne CI/CD.  
+* Participer au développement de certaines parties du projet.  
+* Résoudre les principaux problèmes de performance.  
+* Mise en place de la chaîne CI/CD.  
 
 **Principes appliqués** :  
 - DDD, CQRS/ES, BDD, TDD et documentation vivante.  
@@ -93,8 +93,8 @@ Windows 7, Linux
 Mise en place d'une nouvelle application dédiée à la gestion Middle-Office des produits structurés et semi-structurés. Isolation et extraction des fonctionnalités MO de l'application principale. L'utilisation de JSF a été imposée pour la partie Front-End.
 
 **Méthodes et organisations** :  
-- Recherche d'axe d'amélioration sur l'implémentation Kanban existante.  
-- Rationalisation du « minima à spécifier » concernant certains types de demandes.  
+* Recherche d'axe d'amélioration sur l'implémentation Kanban existante.  
+* Rationalisation du « minima à spécifier » concernant certains types de demandes.  
 
 Référent technique pour les développeurs nécessitant de l'aide ou ayant des questions concernant le design et l'architecture d'application, les frameworks utilisés, les systèmes de gestion de source ou tout autre aspect technique.
 
@@ -113,14 +113,14 @@ Windows 7, AIX
 Application back-office de gestion des dérivés listés.
 
 Réalisations :
-- Participation à la définition de l'architecture technique d'un nouveau système STP et aide à la réalisation de certains composants. Architecture choisie de type EIP.
-- Refonte et fiabilisation de la chaîne des traitements batch de l'application, principalement composée d'import/export base de données. Industrialisation de l'écriture des traitements.
-- Réalisation d’un POC comparatif entre 3 solutions GWT : GWT, SmartGWT, GXT.
+* Participation à la définition de l'architecture technique d'un nouveau système STP et aide à la réalisation de certains composants. Architecture choisie de type EIP.
+* Refonte et fiabilisation de la chaîne des traitements batch de l'application, principalement composée d'import/export base de données. Industrialisation de l'écriture des traitements.
+* Réalisation d’un POC comparatif entre 3 solutions GWT : GWT, SmartGWT, GXT.
 
 **Méthodes et organisations** :  
-- Définition et mise en place du processus de livraison  
-- Définition des normes et bonnes pratiques de développement  
-- Mise en place d’un espace wiki pour la documentation technique  
+* Définition et mise en place du processus de livraison  
+* Définition des normes et bonnes pratiques de développement  
+* Mise en place d’un espace wiki pour la documentation technique  
 
 **Environnement** :  
 Java 1.6, Maven, Eclipse  
@@ -195,9 +195,9 @@ Oracle 8i, Tibco Rendezvous, Clearcase, Windows XP
 *septembre 2001 – décembre 2003*
 
 Maintenance puis refonte totale de l’application permettant le suivi des opérations au fil de l’eau :
-– Conception, modélisation et implémentation de la mécanique fonctionnelle.
-– Suivi des statuts de réconciliation par intégration de données des mondes : SWIFTNet ACCORD et ACCORD Workstation.
-– Génération de relances sur différents formats : SWIFT, Fax, Courrier, E-Mail.
+* Conception, modélisation et implémentation de la mécanique fonctionnelle.
+* Suivi des statuts de réconciliation par intégration de données des mondes : SWIFTNet ACCORD et ACCORD Workstation.
+* Génération de relances sur différents formats : SWIFT, Fax, Courrier, E-Mail.
 
 **Environnement** :  
 Java 1.3, Avalon, FOP, XML/XSLT/XSLFO, JMS, JSP/Servlet  
@@ -213,9 +213,9 @@ AIX / Windows NT
 Participation à la refonte totale de l’application de gestion Relais H permettant
 entre autres la gestion des articles, de l’approvisionnement des points de ventes
 et des commandes aux fournisseurs.
-– Développement de l’IHM et implémentation de la logique métier.
-– Migration des données de l’ancien modèle vers le nouveau.
-– Réalisation d’interfaces entrantes et sortantes.
+* Développement de l’IHM et implémentation de la logique métier.
+* Migration des données de l’ancien modèle vers le nouveau.
+* Réalisation d’interfaces entrantes et sortantes.
 
 **Environnement** : Delphi 5, Oracle 7, Windows
 
@@ -263,6 +263,3 @@ Conception du site Internet pour la revue électronique DMTCS.
 - Anglais : Courant
 
 ---
-
-
-
