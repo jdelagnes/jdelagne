@@ -1,4 +1,4 @@
-# Jérôme Delagnes - Architecte, leader technique et artisan logiciel
+# Jérôme Delagnes - Leader technique, architecte et artisan logiciel
 📍 Île-de-France, France  
 📧 jerome.delagnes@gmail.com  
 💼 [LinkedIn](https://fr.linkedin.com/in/jeromedelagnes)  
