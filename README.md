@@ -1,4 +1,1 @@
-Hi everyone,
-
-My CV:
-- [French](cv.fr.md)
+Hi there, here my [french curriculum vitae](cv.fr.md).
