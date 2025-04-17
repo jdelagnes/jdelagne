@@ -242,7 +242,7 @@ Refonte totale de l’application permettant le suivi des opérations au fil de 
 
 **RELAY FRANCE**
 
-*septembre 2000 – septembre 2001*Réalisations :
+*septembre 2000 – septembre 2001*
 
 Participation à la refonte totale de l’application de gestion Relais H permettant entre autres la gestion des articles, de l’approvisionnement des points de ventes et des commandes aux fournisseurs.
 * Développement de l’IHM et implémentation de la logique métier.
