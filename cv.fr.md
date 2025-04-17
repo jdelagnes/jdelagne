@@ -178,7 +178,7 @@ Principaux objectifs : prévention de l’augmentation des volumes, diminution d
 ### Développeur Confirmé Java
 
 **Société Générale Corporate & Investment Banking**  
-Market static data – MSD  
+MSD  
 
 *janvier 2006 – janvier 2007*
 
