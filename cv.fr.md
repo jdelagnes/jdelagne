@@ -263,9 +263,9 @@ Création d’une IHM pour la gestion du référentiel d’une application front
 
 **Environnement technique** : C++Builder, Windows NT, Sybase, Unix
 
-### Développeur Stagiaire Perl
-
 ---
+
+### Développeur Stagiaire Perl
 
 **Université Paris 7** 
 LIAFA
