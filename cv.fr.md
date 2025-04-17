@@ -122,7 +122,7 @@ _L'utilisation de JSF a été imposée pour la partie Front-End._
 ### Développeur Sénior Java
 
 **BNP Paribas CIB**  
-UBIX - SGCIB
+UBIX
 
 *janvier 2010 – décembre 2012*
 
@@ -177,7 +177,7 @@ Principaux objectifs : prévention de l’augmentation des volumes, diminution d
 
 ### Développeur Confirmé Java
 
-**Société Générale Corporate & Investment Banking**  
+**Société Générale Corporate & Investment Banking - SGCIB**  
 MSD  
 
 *janvier 2006 – janvier 2007*
