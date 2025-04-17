@@ -1,4 +1,5 @@
-# Jérôme Delagnes - Leader technique, architecte et artisan logiciel
+# Jérôme Delagnes<br>Leader technique, architecte et artisan logiciel
+
 📍 Île-de-France, France  
 📧 jerome.delagnes@gmail.com  
 💼 [LinkedIn](https://fr.linkedin.com/in/jeromedelagnes)  
@@ -200,37 +201,48 @@ STP
 
 *janvier 2004 – janvier 2006*
 
-Participation à la migration des différents services STP sur une nouvelle
-modélisation des transactions financières. Plus particulièrement en charge du
-service responsable de la persistance des opérations en base de données.
-Réception des données au format XML sur bus logiciel Tibco RendezVous.
-Tests de non-régression sur documents XML.
-Reprise et migration de données.
-Mise en place d’une plateforme d’intégration continue .NET.
+Participation à la migration des différents services STP sur une nouvelle modélisation des transactions financières.  
+* En charge du service responsable de la persistance des opérations en base de données.  
+* Réception des données au format XML sur bus logiciel Tibco RendezVous.  
+* Tests de non-régression sur documents XML.  
+* Reprise et migration de données.  
+
+Mise en place d’une plateforme d’intégration continue .NET.  
 
 **Environnement technique** :  
-C# .NET 1.1 & 2.0, Spring.Net, iBATIS.Net, MbUnit, CruiseControl.Net  
-Java 1.3, Eclipse, JSP/Servlet/Tomcat  
-XML/XSL/XSD, XMLSpy  
-Oracle 8i, Tibco Rendezvous, Clearcase, Windows XP
+* C# .NET 1.1 & 2.0
+* Spring.Net, iBATIS.Net, MbUnit
+* XML/XSL/XSD, XMLSpy
+* Oracle 8i, Tibco Rendezvous
+* Clearcase, CruiseControl.Net
+* Windows XP
 
-### BNP Paribas CIB – BOGART  
-**Développeur Junior Java**  
+---
+
+### Développeur Junior Java
+
+**BNP Paribas CIB**  
+BOGART  
+
 *septembre 2001 – décembre 2003*
 
-Maintenance puis refonte totale de l’application permettant le suivi des opérations au fil de l’eau :
+Refonte totale de l’application permettant le suivi des opérations au fil de l’eau :
 * Conception, modélisation et implémentation de la mécanique fonctionnelle.
 * Suivi des statuts de réconciliation par intégration de données des mondes : SWIFTNet ACCORD et ACCORD Workstation.
 * Génération de relances sur différents formats : SWIFT, Fax, Courrier, E-Mail.
 
-**Environnement technique** :  
-Java 1.3, Avalon, FOP, XML/XSLT/XSLFO, JMS, JSP/Servlet  
-Delphi, Oracle 8i, Informatica Powermart, BusinessObjects  
-AIX / Windows NT
+**Environnement technique** :
+* Java 1.3, Avalon, FOP, XML/XSLT/XSLFO, JMS, JSP/Servlet
+* Delphi, Oracle 8i, Informatica Powermart, BusinessObjects
+* Windows NT, AIX
 
-### RELAY FRANCE  
-**Développeur Junior Delphi**  
-*septembre 2000 – septembre 2001*
+---
+
+### Développeur Junior Delphi
+
+**RELAY FRANCE**
+
+*septembre 2000 – septembre 2001*Réalisations :
 
 Participation à la refonte totale de l’application de gestion Relais H permettant entre autres la gestion des articles, de l’approvisionnement des points de ventes et des commandes aux fournisseurs.
 * Développement de l’IHM et implémentation de la logique métier.
@@ -238,6 +250,8 @@ Participation à la refonte totale de l’application de gestion Relais H permet
 * Réalisation d’interfaces entrantes et sortantes.
 
 **Environnement technique** : Delphi 5, Oracle 7, Windows
+
+---
 
 ### Développeur Stagiaire C++
 
@@ -249,15 +263,19 @@ Création d’une IHM pour la gestion du référentiel d’une application front
 
 **Environnement technique** : C++Builder, Windows NT, Sybase, Unix
 
-### Université Paris 7 – LIAFA  
-**Développeur stagiaire Perl**  
+### Développeur Stagiaire Perl
+
+---
+
+**Université Paris 7** 
+LIAFA
+
 *avril 1999 – juillet 1999*
 
 Participation à l’organisation de la 12ème conférence internationale FPSAC.  
 Conception du site Internet pour la revue électronique DMTCS.
 
 **Environnement technique** : Perl, sh, Apache, OpenBSD
-
 
 ## 🎓 Formation
 
@@ -268,7 +286,6 @@ Conception du site Internet pour la revue électronique DMTCS.
 
 - **2013** : Functional Programming Principles in Scala – _Coursera_
 - **2013** : MongoDB for Java Developers – _MongoDB University_
-
 
 ## 🌐 Langues
 
