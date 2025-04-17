@@ -96,7 +96,7 @@ L'un des principaux challenges du projet étant de supporter la charge des calcu
 ### Développeur Sénior Java
 
 **Société Générale Corporate & Investment Banking - SGCIB**  
-Private Banking - PRB
+Private Banking - PRB - SGCIB
 
 *janvier 2013 – janvier 2016*
 
@@ -122,7 +122,7 @@ _L'utilisation de JSF a été imposée pour la partie Front-End._
 ### Développeur Sénior Java
 
 **BNP Paribas CIB**  
-UBIX
+UBIX - SGCIB
 
 *janvier 2010 – décembre 2012*
 
@@ -267,7 +267,7 @@ Création d’une IHM pour la gestion du référentiel d’une application front
 
 ### Développeur Stagiaire Perl
 
-**Université Paris 7** 
+**Université Paris 7**  
 LIAFA
 
 *avril 1999 – juillet 1999*
