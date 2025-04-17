@@ -44,7 +44,7 @@ Cette migration permet ainsi d’optimiser les coûts de licences ainsi que la c
 - DDD, CQRS/ES, BDD, TDD et documentation vivante.
 - Microservices, architecture hexagonale et clean code.
 
-**Environnement** :
+**Environnement technique** :
 - Java 21, Maven
 - Spring Boot, Swagger
 - Gerkin, Cucumber, JUnit
@@ -81,7 +81,7 @@ L'un des principaux challenges du projet étant de supporter la charge des calcu
 - DDD, CQRS/ES, BDD, TDD et documentation vivante.
 - Microservices, architecture hexagonale et clean code.
 
-**Environnement** :
+**Environnement technique** :
 - Java 1.8, Maven
 - Spring Boot, Swagger
 - Gerkin, Cucumber, JUnit, jOOQ
@@ -109,7 +109,7 @@ _L'utilisation de JSF a été imposée pour la partie Front-End._
 * Rationalisation du « minima à spécifier » concernant certains types de demandes.
 * Référent technique pour les développeurs nécessitant de l'aide ou ayant des questions concernant le design et l'architecture d'application, les frameworks utilisés, les systèmes de gestion de source ou tout autre aspect technique.
 
-**Environnement** :
+**Environnement technique** :
 * Java 1.6, Maven
 * Spring, Hibernate, JUnit, Mockito, XML, JMS, JSF
 * Oracle 12c, WebLogic 11g
@@ -127,7 +127,7 @@ UBIX
 
 Application back-office de gestion des dérivés listés.
 
-Réalisations :
+**Réalisations** :
 * Participation à la définition de l'architecture technique d'un nouveau système STP et aide à la réalisation de certains composants. Architecture choisie de type EIP.
 * Refonte et fiabilisation de la chaîne des traitements batch de l'application, principalement composée d'import/export base de données. Industrialisation de l'écriture des traitements.
 * Réalisation d’un POC comparatif entre 3 solutions GWT : GWT, SmartGWT, GXT.
@@ -137,7 +137,7 @@ Réalisations :
 * Définition des normes et bonnes pratiques de développement.
 * Mise en place d’un espace wiki pour la documentation technique.
 
-**Environnement** :
+**Environnement technique** :
 * Java 1.6, Maven
 * Spring, Spring Batch, Spring Integration
 * MyBATIS, JUnit, Mockito, DbUnit, JAXB, XML, XSD, JMS
@@ -154,22 +154,18 @@ EOLE
 
 *janvier 2007 – janvier 2010*
 
-Conception et réalisation de la publication au fil de l’eau des transactions et
-instructions au format XML sur bus Tibco RendezVous.  
+**Réalisations** :
+
+* Conception et réalisation de la publication au fil de l’eau des transactions et instructions au format XML sur bus Tibco RendezVous.  
 Volume quotidien d’un million de messages.  
-Projet inscrit dans la mise en place d’une nouvelle architecture transverse visant à
-mutualiser certains composants communs aux activités des achats/ventes et
-prêts/emprunts de titres.
+Projet inscrit dans la mise en place d’une nouvelle architecture transverse visant à mutualiser certains composants communs aux activités des achats/ventes et prêts/emprunts de titres.
 
-Refonte de l’application de rapprochement des exécutions marchées entre le SI et
-les correspondants externes : clearers, bourses, chambres de compensation, etc.  
-Principaux objectifs : prévention de l’augmentation des volumes, diminution des
-temps d’analyse du support niveau 1 et amélioration des statistiques de
-réconciliation.
+* Refonte de l’application de rapprochement des exécutions marchées entre le SI et les correspondants externes : clearers, bourses, chambres de compensation, etc.  
+Principaux objectifs : prévention de l’augmentation des volumes, diminution des temps d’analyse du support niveau 1 et amélioration des statistiques de réconciliation.
 
-Migration technique TRAX vers TRAX2 : changement communication et du format des messages échangés.
+* Migration technique TRAX vers TRAX2 : changement communication et du format des messages échangés.
 
-**Environnement** :  
+**Environnement technique** :  
 * Java 1.5, Maven
 * Spring, iBATIS, JUnit, DbUnit, EasyMock, XML, SWIFT
 * Oracle 10g, Tibco RendezVous
@@ -188,7 +184,7 @@ Market static data – MSD
 Étude, conception et mise en place de nouveaux paramètres marchés.  
 Synchronisation de code, migration technique.
 
-**Environnement** :  
+**Environnement technique** :  
 * Java 1.4, Ant
 * JRisk, XML  
 * Oracle 10g, Tibco Rendezvous
@@ -212,7 +208,7 @@ Tests de non-régression sur documents XML.
 Reprise et migration de données.
 Mise en place d’une plateforme d’intégration continue .NET.
 
-**Environnement** :  
+**Environnement technique** :  
 C# .NET 1.1 & 2.0, Spring.Net, iBATIS.Net, MbUnit, CruiseControl.Net  
 Java 1.3, Eclipse, JSP/Servlet/Tomcat  
 XML/XSL/XSD, XMLSpy  
@@ -227,7 +223,7 @@ Maintenance puis refonte totale de l’application permettant le suivi des opér
 * Suivi des statuts de réconciliation par intégration de données des mondes : SWIFTNet ACCORD et ACCORD Workstation.
 * Génération de relances sur différents formats : SWIFT, Fax, Courrier, E-Mail.
 
-**Environnement** :  
+**Environnement technique** :  
 Java 1.3, Avalon, FOP, XML/XSLT/XSLFO, JMS, JSP/Servlet  
 Delphi, Oracle 8i, Informatica Powermart, BusinessObjects  
 AIX / Windows NT
@@ -236,14 +232,12 @@ AIX / Windows NT
 **Développeur Junior Delphi**  
 *septembre 2000 – septembre 2001*
 
-Participation à la refonte totale de l’application de gestion Relais H permettant
-entre autres la gestion des articles, de l’approvisionnement des points de ventes
-et des commandes aux fournisseurs.
+Participation à la refonte totale de l’application de gestion Relais H permettant entre autres la gestion des articles, de l’approvisionnement des points de ventes et des commandes aux fournisseurs.
 * Développement de l’IHM et implémentation de la logique métier.
 * Migration des données de l’ancien modèle vers le nouveau.
 * Réalisation d’interfaces entrantes et sortantes.
 
-**Environnement** : Delphi 5, Oracle 7, Windows
+**Environnement technique** : Delphi 5, Oracle 7, Windows
 
 ### Développeur Stagiaire C++
 
@@ -253,16 +247,16 @@ et des commandes aux fournisseurs.
 
 Création d’une IHM pour la gestion du référentiel d’une application front office sur le marché obligataire.
 
-**Environnement** : C++Builder / Windows NT, Sybase / Unix
+**Environnement technique** : C++Builder, Windows NT, Sybase, Unix
 
 ### Université Paris 7 – LIAFA  
 **Développeur stagiaire Perl**  
 *avril 1999 – juillet 1999*
 
-Participation à l’organisation de la 12ème conférence internationale FPSAC.
+Participation à l’organisation de la 12ème conférence internationale FPSAC.  
 Conception du site Internet pour la revue électronique DMTCS.
 
-**Environnement** : Perl, sh, Apache, OpenBSD
+**Environnement technique** : Perl, sh, Apache, OpenBSD
 
 
 ## 🎓 Formation
@@ -279,4 +273,4 @@ Conception du site Internet pour la revue électronique DMTCS.
 ## 🌐 Langues
 
 - Français : Langue maternelle  
-- Anglais : Courant
+- Anglais : Professionnel
