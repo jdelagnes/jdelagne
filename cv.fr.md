@@ -12,7 +12,7 @@ Je suis intéressé par toutes opportunités m'apportant de nouvelles connaissan
 
 ## 🛠️ Compétences 🚧 A réoganiser et compléter
 
-- **Langages & Frameworks** : Java (jusqu'à 21), Spring Boot, Gerkin, Cucumber, Hibernate, JUnit, Mockito
+- **Langages & Frameworks** : Java 21, Spring Boot, Gerkin, Cucumber, Hibernate, JUnit, Mockito
 - **Architecture** : Microservices, Architecture Hexagonale, CQRS/ES, DDD
 - **DevOps & Outils** : Clean Code, CI/CD, Git, Jenkins, SonarQube, XL Deploy, VM
 - **Bases de données & Messaging** : PostgreSQL, Oracle, RabbitMQ, Kafka
