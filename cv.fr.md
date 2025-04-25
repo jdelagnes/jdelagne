@@ -6,18 +6,19 @@
 
 ## 🎯 À propos
 
-Consultant en informatique depuis plus de 20 ans, mon domaine de prédilection est l'architecture et la conception logiciels.  
-J'aime autant concevoir, coder et livrer des logiciels qu'interagir avec les utilisateurs afin d'améliorer leur expérience et ainsi atteindre leurs objectifs métiers.  
+Consultant en informatique depuis plus de 20 ans, spécialisé en architecture et conception logiciels.  
+J'aime autant concevoir qu'interagir avec les utilisateurs afin d'améliorer leur expérience et ainsi atteindre leurs objectifs métiers.  
 Je suis intéressé par toutes opportunités m'apportant de nouvelles connaissances techniques, métiers, agiles et humaines.
 
-## 🛠️ Compétences 🚧 A réoganiser et compléter
+## 🛠️ Compétences techniques
 
-- **Langages & Frameworks** : Java 21, Spring Boot, Gerkin, Cucumber, Hibernate, JUnit, Mockito
-- **Architecture** : Microservices, Architecture Hexagonale, CQRS/ES, DDD
-- **DevOps & Outils** : Clean Code, CI/CD, Git, Jenkins, SonarQube, XL Deploy, VM
-- **Bases de données & Messaging** : PostgreSQL, Oracle, RabbitMQ, Kafka
-- **Méthodologies** : Agile, Scrum, Kanban, 
-- **IDE & Outils** : IntelliJ, Eclipse, Maven, VS Code
+- **Langages & Frameworks** : Java 21, Spring Boot, Maven, Gerkin, Cucumber, SQL, Hibernate, JUnit, Mockito, bash
+- **Architecture** : Microservices, REST API, CQRS/ES, EDA, EIP
+- **Design Logiciel** : DDD, BDD, Architecture Hexagonale, CLean Code
+- **DevOps** : CI/CD, Git, Jenkins, SonarQube, XL Deploy, VM Linux "on premise"
+- **Bases de données & Messaging** : PostgreSQL, Oracle, RabbitMQ, Kafka, MongoDB
+- **Méthodologies** : Scrum, Kanban, SAFe
+- **Autres** : WebLogic, C, C++, C#
 
 ## 💼 Expériences Professionnelles
 
@@ -53,6 +54,14 @@ Cette migration permet ainsi d’optimiser les coûts de licences ainsi que la c
 - Git, Jenkins, Sonar, XL Deploy
 - VM private cloud, Linux
 - Windows 11
+
+---
+
+### Années sabbatiques
+*janvier 2019 – janvier 2021*
+
+- Personnel : Accompagnement de mon premier enfant en bas age.
+- Professionnel : Découvertes et expérimentations – Docker, Go, Kotlin, Typescript.
 
 ---
 
