@@ -19,6 +19,7 @@ Je suis intéressé par toutes opportunités m'apportant de nouvelles connaissan
 - **Bases de données & Messaging** : PostgreSQL, Oracle, RabbitMQ, Kafka, MongoDB
 - **Méthodologies** : Scrum, Kanban, SAFe
 - **Autres** : WebLogic, C, C++, C#
+- **A titre de découverte** : Scala, Typescript, Go, Docker
 
 ## 💼 Expériences Professionnelles
 
