@@ -15,7 +15,7 @@ Je suis intéressé par toutes opportunités m'apportant de nouvelles connaissan
 - **Langages & Frameworks** : Java 21, Spring Boot, Maven, Gerkin, Cucumber, SQL, Hibernate, JUnit, Mockito, bash
 - **Architecture** : Microservices, REST API, CQRS/ES, EDA, EIP
 - **Design Logiciel** : DDD, BDD, Architecture Hexagonale, CLean Code
-- **DevOps** : CI/CD, Git, Jenkins, SonarQube, XL Deploy, VM Linux "on premise"
+- **DevOps** : CI/CD, Git, Jenkins, SonarQube, XL Deploy, ELK, VM Linux "on premise"
 - **Bases de données & Messaging** : PostgreSQL, Oracle, RabbitMQ, Kafka, MongoDB
 - **Méthodologies** : Scrum, Kanban, SAFe
 - **Autres** : WebLogic, C, C++, C#
@@ -53,6 +53,7 @@ Cette migration permet ainsi d’optimiser les coûts de licences ainsi que la c
 - Gerkin, Cucumber, JUnit
 - PostgreSQL, RabbitMQ
 - Git, Jenkins, Sonar, XL Deploy
+- ELK stack
 - VM private cloud, Linux
 - Windows 11
 
