@@ -14,7 +14,7 @@ Je suis intéressé par toutes opportunités m'apportant de nouvelles connaissan
 
 - **Langages & Frameworks** : Java 21, Spring Boot, Maven, Gerkin, Cucumber, SQL, Hibernate, JUnit, Mockito, bash
 - **Architecture** : Microservices, REST API, CQRS/ES, EDA, EIP
-- **Design Logiciel** : DDD, BDD, Architecture Hexagonale, CLean Code
+- **Design Logiciel** : DDD, BDD, Architecture Hexagonale, Clean Code
 - **DevOps** : CI/CD, Git, Jenkins, SonarQube, XL Deploy, ELK, VM Linux "on premise"
 - **Bases de données & Messaging** : PostgreSQL, Oracle, RabbitMQ, Kafka, MongoDB
 - **Méthodologies** : Scrum, Kanban, SAFe
