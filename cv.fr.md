@@ -21,6 +21,11 @@ Je suis intéressé par toutes opportunités m'apportant de nouvelles connaissan
 - **Autres** : WebLogic, C, C++, C#
 - **A titre de découverte** : Scala, Typescript, Go, Docker
 
+## 📜 Certifications
+
+- **2013** : Functional Programming Principles in Scala – _Coursera_
+- **2013** : MongoDB for Java Developers – _MongoDB University_
+
 ## 💼 Expériences Professionnelles
 
 ### Leader technique
@@ -292,11 +297,6 @@ Conception du site Internet pour la revue électronique DMTCS.
 
 - **2000** : DESS Informatique – Communication, Réseau et Image (mention B)  
   _Université de Marne la Vallée_
-
-## 📜 Certifications
-
-- **2013** : Functional Programming Principles in Scala – _Coursera_
-- **2013** : MongoDB for Java Developers – _MongoDB University_
 
 ## 🌐 Langues
 
